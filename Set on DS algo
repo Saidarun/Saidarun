@@ -1,0 +1,20 @@
+numbers = [1, 2, 6, 3, 1, 1, 5] 
+
+unique_nums = set(numbers)
+print(unique_nums)
+
+artist = {'ARR', 'Mic', 'S3', 'Vinci', 'Picasso', 'BTS', 'U1'}
+
+print('Turner' in artist) # check if there is Turner in the set artist
+artist.add('Turner')
+print(artist.pop()) #remove the last item
+
+#@output : set([1, 2, 3, 5, 6]) False ARR
+
+music = { 'jazz': {"Concept": "In a Sentimental Mood", "M.Davis":"Blue in Green" , "T.Monk":"Don't Blame Me"},
+    "classical" : {"Bach": "Cello Suit", "Mozart": "Lacrimosa", "Satie": "Gymnopedie"}}
+
+print(music["jazz"]["Concept"]) # we select the value of the key Concept
+print(music["classical"]["Mozart"])
+
+#@output : In a Sentimental Mood Lacrimosa
