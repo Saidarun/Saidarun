@@ -1,36 +1,11 @@
-{
- "cells": [
-  {
-   "cell_type": "markdown",
-   "id": "3909ddd1",
-   "metadata": {},
-   "source": [
-    "# The Spark Foundation- Internship\n",
-    "Data Science and business analytics\n",
-    "# NAME - Sai darun\n",
-    "# Task -1\n",
-    "\n",
-    "# Prediction using Supervised ML\n",
-    "\n",
-    "Predict the percentage of a students based on the number of study hours.\n",
-    "\n",
-    "Data can be found at - http://bit.ly/w-data\n",
-    "\n",
-    "What will be the predicted score if a student studiesfor 9.25hr/day?\n",
-    "\n"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": 1,
-   "id": "12b2884f",
-   "metadata": {},
-   "outputs": [
-    {
-     "name": "stdout",
-     "output_type": "stream",
-     "text": [
-      "The libraries as imported!\n"
-     ]
-    }
-    
+The Spark Foundation- Internship
+Data Science and business analytics
+
+NAME - Sai darun
+Task -1
+Prediction using Supervised ML
+Predict the percentage of a students based on the number of study hours.
+
+Data can be found at - http://bit.ly/w-data
+
+What will be the predicted score if a student studiesfor 9.25hr/day?
